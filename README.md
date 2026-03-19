@@ -8,7 +8,7 @@ This repository is for Revue 3.0 Workshops related to LEAF and LINCS tools.
 * If you would like to experiment with the Context Explorer, ensure you have installed the plugin before the workshop starts.
 
 ## Links
-**LEAF (Linked Editing Academic Framework) tools:**
+**LEAF (Linked Editing Academic Framework):**
 * Access [LEAF-Writer on LEAF Commons](https://leaf-writer.leaf-vre.org/)
 * Access the [Named Entity Reconciliation Vetting Environment (NERVE)](https://nerve.lincsproject.ca/en)
 * Access the [LEAF-VRE site](https://www.leaf-vre.org/) with documentation for LEAF-Writer, NERVE, and other Commons tools. 

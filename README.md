@@ -25,7 +25,9 @@ This repository is for Revue 3.0 Workshops related to LEAF and LINCS tools.
   
 **Context Explorer links:**
 * [Le Journal de Virginia Woolf ou l’invention d’une voix « à soi »](https://journals.openedition.org/itineraires/1111)
+* [Joanna Russ, écrivain et critique](https://resf.hypotheses.org/1736)
 * [Women Talking, Women Thinking](https://leaf.bucknell.edu/group/heresies-project/russ-women-talking-women-thinking#d0e590)
+
   
 **Note:** the Context Explorer is also available as a library that can also be installed on a website.
 
